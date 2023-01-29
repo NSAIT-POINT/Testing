@@ -12,3 +12,4 @@ public class Test {
 void m1(){
 	// logic
 }
+}
