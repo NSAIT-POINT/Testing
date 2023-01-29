@@ -6,6 +6,8 @@ public class Test {
 	private String gender;
 	private String city;
 	private int age;
+	private int id;
+	
 
 	public static void main(String[] args) {
 // on urgetn basis i need to make some change here
