@@ -12,7 +12,22 @@ public class Test {
 	}
 
 	void m1() {
-		
-		//half done 
+
+		/**
+		 *logic 
+		 * logic 
+		 * half done logic
+		 * 
+		 * 
+		 */
 	}
+
+	void m2() {
+		/**
+		 * i will compltet the code
+		 *
+		 * 
+		 */
+	}
+
 }
