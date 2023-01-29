@@ -13,4 +13,9 @@ public class Test {
 void m1(){
 	// logic
 }
+
+void m2() {
+	
+	// if i complteted m2 method 
+}
 }
